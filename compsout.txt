@@ -1,0 +1,44 @@
+
+Merge Sort 
+Sort Data: 30903 
+Decrease Data: 48979
+Increase Data: 65807
+
+3000 || Expected Worst Case:   O(n log(n))   Expected Average Case:   O(n log(n))  Expected Best Case:  O(n log(n))  Actual Descending: 48979 Actual Random: 30903 Actual Increase: 65807
+
+
+HeapSort 
+Sort Data: 30681 
+Decrease Data: 26751
+Increase Data: 54835
+
+3000 || Expected Worst Case:   O(n log(n))   Expected Average Case:   O(n log(n))  Expected Best Case:  O(n log(n))  Actual Descending: 26751 Actual Random: 30681 Actual Increase: 54835
+
+Selectionsort 
+Sort Data: 20919 
+Decrease Data: 2248500
+Increase Data: 4498500
+
+3000 || Expected Worst Case:  O(n^2)  Expected Average Case:   O(n^2)  Expected Best Case:  O(n^2)  Actual Descending: 2248500 Actual Random: 20919 Actual Increase: 4498500
+
+QuickSort 
+Sort Data: 8269 
+Decrease Data: 11268
+Increase Data: 14267
+
+3000 || Expected Worst Case:  O(n^2)  Expected Average Case:   O(n log(n))  Expected Best Case:  O(n log(n))  Actual Descending: 11268 Actual Random: 8269 Actual Increase: 14267
+
+Bubble 
+Sort Data: 2235933 
+Decrease Data: 4498500
+Increase Data: 0
+
+3000 || Expected Worst Case:  O(n^2)  Expected Average Case:  O(n^2)  Expected Best Case: O(n)  Actual Descending: 4498500 Actual Random: 2235933 Actual Increase: 0
+
+Insertion 
+Sort Data: 2235933 
+Decrease Data: 4498500
+Increase Data: 0
+
+3000 || Expected Worst Case:  O(n^2)  Expected Average Case:  O(n^2)  Expected Best Case: O(n)  Actual Descending: 4498500 Actual Random: 2235933 Actual Increase: 0
+
